@@ -1,0 +1,9 @@
+
+{
+  "name": "CampusTrace - Mobile",
+  "description": "Mobile-first Campus Lost & Found with AI enhancement and camera support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
